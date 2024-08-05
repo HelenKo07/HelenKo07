@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @HelenKo07
+- 👋 Hi, I’m Alena Korma
 - 👀 I’m interested in FullStack developed
 - 🌱 I’m currently learning undergoing 10 months of training at the GoIT online school in the FullStack developer direction
 - 💞️ I’m looking to collaborate on in the field of development
 - 📫 How to reach me . You can contact me on GitHub, Telegram, Instagram
-- 😄 Pronouns: ...
+- 😄 Pronouns: she
 - ⚡ Fun fact: ...
 
 <!---
