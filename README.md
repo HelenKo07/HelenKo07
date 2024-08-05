@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on in the field of development
 - 📫 How to reach me . alena.gorova93@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: I'm a fan of development, but I'm still learning
+- ⚡ Fun fact: Beginner programmer. Development fan
 
 <!---
 HelenKo07/HelenKo07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
